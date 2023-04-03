@@ -1,0 +1,8 @@
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\bin\Debug\pruebaLINQ.exe.config
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\bin\Debug\pruebaLINQ.exe
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\bin\Debug\pruebaLINQ.pdb
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\obj\Debug\pruebaLINQ.csproj.AssemblyReference.cache
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\obj\Debug\pruebaLINQ.csproj.SuggestedBindingRedirects.cache
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\obj\Debug\pruebaLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\obj\Debug\pruebaLINQ.exe
+C:\Users\Desarrollo 4\Practica\pruebaLINQ\obj\Debug\pruebaLINQ.pdb
